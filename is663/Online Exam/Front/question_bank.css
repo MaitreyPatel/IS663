@@ -1,0 +1,91 @@
+body {margin:0;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(70, 151, 243) !important;
+    border-color: #e7e7e7;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;
+    font-weight: normal;
+    
+}`
+
+
+.menu {
+  overflow:hidden;
+		background-color: #A9A9A9;
+		
+}
+.menu li a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25x;
+}
+.menu li a:hover {
+  background-color: blue;
+}
+.logout li a {
+  float:right;
+}
+h2 {
+  padding-left: 5%;
+  padding-top: 60px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 1.1;
+  color: inherit;
+}
+.make_question {
+	padding-left:1%;
+}
+
+label {
+	padding-left:  5%;
+}
+labels {
+	padding-right: 10%;
+}
+label1 {
+	padding-right: 10%;
+	padding-left: 5%;
+}
+label2 {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+input[type=button] {
+ background-color: #5bc0de;
+  border-color: #46b8da;
+  border: none;
+  border-radius: 12px;
+  padding: 20px 36px;
+  color: white;
+}
+input[type=button]:hover {
+background-color: #1456a0;
+}
+input[type=submit] {
+ background-color: #4cae4c;
+  border: none;
+  border-radius: 12px;
+  padding: 20px 36px;
+  color: white;
+}
+input[type=submit]:hover {
+background-color: #089108;
+}
+.add_new {
+	padding-left: 1%;
+}
+
+

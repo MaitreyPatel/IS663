@@ -1,0 +1,61 @@
+
+
+
+body {
+    background: gray;
+    background-size: 100% 800px;
+    background-repeat: no-repeat;
+	overflow: hidden;
+    
+}
+
+.icon{
+	margin-left: 45%;
+	padding-top: 100px;
+	font-size:150px;
+	padding-bottom: 30px;
+	
+}
+
+.container {
+    padding: 16px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.text {
+	margin-left: 37%;
+	margin-right: 37%;
+	font-size: 20px;
+}
+.text2 {
+	margin-left: 37%;
+	margin-right: 37%;
+	font-size: 20px;
+}
+
+input[type=button] {
+ background-color: #5bc0de;
+  border-color: #46b8da;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 12px 25px;
+}
+  
+input[type=button]:hover {
+background-color: #1456a0;
+}
+.button {
+  padding-left: 48%;
+}
+
+.checkbox {
+	margin-left: 47%;
+}
+	

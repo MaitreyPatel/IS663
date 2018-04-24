@@ -1,0 +1,41 @@
+
+body {margin:0;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(70, 151, 243) !important;
+    border-color: #e7e7e7;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;
+    font-weight: normal;
+    
+}`
+
+
+.menu {
+  overflow:hidden;
+		background-color: #A9A9A9;
+		
+}
+.menu li a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25x;
+}
+.menu li a:hover {
+  background-color: blue;
+}
+.logout li a {
+  float:right;
+}
+h2 {
+  padding-top:60px;
+}
